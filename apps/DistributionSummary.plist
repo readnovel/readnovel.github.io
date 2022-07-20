@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VSPlayer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>200910</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B60C38B8B07B254319E98D5A3A908068D0500976</string>
+				<key>dateExpires</key>
+				<string>2023/7/2</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.8.8</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B60C38B8B07B254319E98D5A3A908068D0500976</string>
+						<key>dateExpires</key>
+						<string>2023/7/2</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>IJKMediaFrameworkWithSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R27T4PH9RZ</string>
+						<key>name</key>
+						<string>Francis Bass</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>200220</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B60C38B8B07B254319E98D5A3A908068D0500976</string>
+						<key>dateExpires</key>
+						<string>2023/7/2</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>R27T4PH9RZ.com.readwebnovel.dev.widget</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>R27T4PH9RZ</string>
+						<key>com.apple.security.application-groups</key>
+						<array/>
+						<key>get-task-allow</key>
+						<true/>
+					</dict>
+					<key>name</key>
+					<string>PlayerWidgetExtension.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>748ae2c4-d153-43df-9e69-ee750cb70ca5</string>
+						<key>dateExpires</key>
+						<string>2023/7/20</string>
+						<key>name</key>
+						<string>iOS Team Provisioning Profile: com.readwebnovel.dev.widget</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R27T4PH9RZ</string>
+						<key>name</key>
+						<string>Francis Bass</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.2.2</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>R27T4PH9RZ.com.readwebnovel.dev</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>R27T4PH9RZ</string>
+				<key>com.apple.security.application-groups</key>
+				<array/>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>VSPlayer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bc62973a-3d38-4738-a05d-87da88e75697</string>
+				<key>dateExpires</key>
+				<string>2023/7/20</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.readwebnovel.dev</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>R27T4PH9RZ</string>
+				<key>name</key>
+				<string>Francis Bass</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>2.9.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
