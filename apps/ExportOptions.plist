@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://readnovel.github.io/apps/app.ipa</string>
+		<string>https://readnovel.github.io/apps/VSPlayer.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://readnovel.github.io/apps/app.png</string>
 		<key>fullSizeImageURL</key>
